@@ -1,3 +1,3 @@
-"# Anushka Singh" 
-age = 22
-location = India
+Pursuing my bachelor's degree in computer science at IGNOU.
+
+
